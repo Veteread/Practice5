@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using System;
-using System.Text;
-using System.Threading.Tasks;
-
 
 public class HomeWork : MonoBehaviour
 {
